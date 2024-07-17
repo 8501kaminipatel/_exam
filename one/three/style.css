@@ -1,0 +1,46 @@
+* 
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.contact
+{
+    height: 500px;
+    width: 25%;
+    margin: auto;
+    background: rgba( 144, 19, 254, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    border: 2px dotted black;
+    margin-top: 150px;
+}
+.contact h2 
+{
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.contact form 
+{
+    display: inline;
+    margin-top: 30px;
+}
+.contact1 
+{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.contact1 button 
+{
+    padding: 5px 50px;
+    border: 1px solid black;
+    display: flex;
+     margin-left: 150px;    
+}
+.contact1 button a 
+{
+    color: black;
+    text-decoration: none;
+}

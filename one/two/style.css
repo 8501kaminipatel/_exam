@@ -1,0 +1,134 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.footer
+{
+    height: 400px;
+    width: 100%;
+    margin-top: 30px;
+}
+.footer1
+{
+    height: 400px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.footer2
+{
+    height: 400px;
+    width: 25%;
+    margin: 0px 10px;
+}
+.footer2 h2 
+{
+    padding-top: 50px;
+    padding-right: 100px;
+}
+.footer2 ul 
+{
+    margin-top: 30px;
+}
+.footer2 ul li 
+{
+    list-style: none;
+    font-size: 20px;
+    padding: 10px 0px;
+    
+}
+.footer3
+{
+    height: 400px;
+    width: 25%;
+    margin: 0px 10px;
+}
+.footer3 h2 
+{
+    padding-top: 50px;
+ 
+}
+.footer3 ul 
+{
+    margin-top: 30px;
+}
+.footer3 ul li 
+{
+    list-style: none;
+    font-size: 20px;
+    padding: 10px 0px;
+    
+}
+.footer4
+{
+    height: 400px;
+    width: 25%;
+    margin: 0px 10px;
+}
+.footer4 h2 
+{
+    padding-top: 50px;
+    padding-right: 100px;
+}
+.footer4 ul 
+{
+    margin-top: 30px;
+}
+.footer4 ul li 
+{
+    list-style: none;
+    font-size: 20px;
+    padding: 10px 0px;
+    
+}
+.footer5
+{
+    height: 400px;
+    width: 25%;
+    margin: 0px 10px;
+}
+.footer5 h2 
+{
+    padding-top: 50px;
+}
+.footer5 ul 
+{
+    margin-top: 30px;
+}
+.footer5 ul li 
+{
+    list-style: none;
+    font-size: 20px;
+    padding: 10px 0px;
+    
+}
+.footer::after
+{
+    content: '';
+    display:block;
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+.footer::before
+{
+    content: '';
+    display:block;
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+.footer10
+{
+    text-align: center;
+    margin-top: 10px;
+
+}
+.footer10 i 
+{
+    width: 100%;
+    font-size: 40px;
+    color: brown;
+}
